@@ -1,7 +1,0 @@
-{
-  "shared_storage": true,
-  "passthrough": false,
-  "target_cpu_compatible": true,
-  "target_free_memory_gib": 16,
-  "required_memory_gib": 8
-}
